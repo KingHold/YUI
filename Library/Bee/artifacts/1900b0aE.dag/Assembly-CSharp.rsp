@@ -356,6 +356,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Users/Control_Panel_2/Documents/Unity Hub/2022.3.62f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Users/Control_Panel_2/Documents/Unity Hub/2022.3.62f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Assets/NeuroSkyAssets/NeuroSkyScripts/Author.cs"
 "Assets/Assets/NeuroSkyAssets/NeuroSkyScripts/DisplayData.cs"
 "Assets/Assets/NeuroSkyAssets/NeuroSkyScripts/LitJson/IJsonWrapper.cs"
 "Assets/Assets/NeuroSkyAssets/NeuroSkyScripts/LitJson/JsonData.cs"

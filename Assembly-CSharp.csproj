@@ -64,6 +64,7 @@
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\TGCConnectionController.cs" />
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\LitJson\JsonMapper.cs" />
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\MindWaveHttpSender.cs" />
+    <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\Author.cs" />
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\LitJson\JsonException.cs" />
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\LitJson\IJsonWrapper.cs" />
     <Compile Include="Assets\Assets\NeuroSkyAssets\NeuroSkyScripts\LitJson\JsonWriter.cs" />
